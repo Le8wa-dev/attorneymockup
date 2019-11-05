@@ -4,6 +4,12 @@ html{
 *,*::before,*::after{
     box-sizing: inherit;
 }
+h3{
+    margin: 0;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
 ul{
     list-style: none;
     margin: 0;
